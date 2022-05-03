@@ -1,5 +1,6 @@
-# Telegraph - Bachelor thesis of Valentin Peter
-This is the repository of the Bachelor Thesis: **'Methods for communication research on Telegram: examining the network of COVID-19 sceptics in Germany.'**
+# Network Analysis of German COVID-19 Related Discussions on Telegram
+
+***Authors***: Valentin Peter, Ramona Kühn, Jelena Mitrović, Michael Granitzer and Hannah Schmid-Petri.
 
 ## Setup project on Mac OS
 To install the required dependencies and packages run:
